@@ -38,4 +38,3 @@ class Artist
   end
 end 
      
-9  lib/concerns/findable.rb
